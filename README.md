@@ -1,1 +1,1 @@
-# Spring-Auth-Up
+# SpringBootAuth-Up
